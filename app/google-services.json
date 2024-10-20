@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503604434936",
+    "project_id": "applestorthemolestor",
+    "storage_bucket": "applestorthemolestor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503604434936:android:b98965235cbcbd930fe80d",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81swx8gcjtIKoRfzpr-RN_eWVBvuT5es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
